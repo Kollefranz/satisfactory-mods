@@ -17,10 +17,6 @@
         "version": ">=0.0.0",
         "enabled": true
       },
-      "FasterManualCraftingRedux": {
-        "version": ">=0.0.0",
-        "enabled": true
-      },
       "InfiniteNudge": {
         "version": ">=0.0.0",
         "enabled": true
@@ -34,10 +30,6 @@
         "enabled": true
       },
       "StorageOnBelt": {
-        "version": ">=0.0.0",
-        "enabled": true
-      },
-      "WallHoleConveyor": {
         "version": ">=0.0.0",
         "enabled": true
       }
@@ -120,24 +112,6 @@
           }
         },
         "version": "1.0.0"
-      },
-      "FasterManualCraftingRedux": {
-        "dependencies": null,
-        "targets": {
-          "LinuxServer": {
-            "hash": "5d27f3f09ffc709b9eb584694bce09273f1302e20ea5b3d568ff03db40cca53a",
-            "link": "https://api.ficsit.app/v1/version/9BMcDEtCidN657/LinuxServer/download"
-          },
-          "Windows": {
-            "hash": "db5c9cb7c7c26751d25aaf4f9724961a0641056b1f82e001494aa90854a35075",
-            "link": "https://api.ficsit.app/v1/version/9BMcDEtCidN657/Windows/download"
-          },
-          "WindowsServer": {
-            "hash": "aad8da1bc68e1d28de5780c8b216a12f1eeceb150b140d768697b81ad842abe9",
-            "link": "https://api.ficsit.app/v1/version/9BMcDEtCidN657/WindowsServer/download"
-          }
-        },
-        "version": "2.3.2"
       },
       "InfiniteNudge": {
         "dependencies": null,
@@ -228,24 +202,6 @@
           }
         },
         "version": "1.0.1"
-      },
-      "WallHoleConveyor": {
-        "dependencies": null,
-        "targets": {
-          "LinuxServer": {
-            "hash": "0da40e97bbe347dbaa86f2e883276c066b0cada9f1565dd28be1bcd87cfc59de",
-            "link": "https://api.ficsit.app/v1/version/8fGz8daYjyLHmb/LinuxServer/download"
-          },
-          "Windows": {
-            "hash": "822cbf30bb790de086df1c3dd0b1eb1ed9f4fa70bbb199ac828fd9d8b31e79f6",
-            "link": "https://api.ficsit.app/v1/version/8fGz8daYjyLHmb/Windows/download"
-          },
-          "WindowsServer": {
-            "hash": "285965c7e8a867beeb27d0273033f5f961a5a762a927db848d1e86ded49eaff3",
-            "link": "https://api.ficsit.app/v1/version/8fGz8daYjyLHmb/WindowsServer/download"
-          }
-        },
-        "version": "2.0.10"
       }
     },
     "version": 1
